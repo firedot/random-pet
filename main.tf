@@ -3,5 +3,5 @@ resource "random_pet" "for_null" {
 }
 
 output "random_pet_id" {
-  value = "${random_pet.foru_null.id}"
+  value = "${random_pet.for_null.id}"
 }
