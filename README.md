@@ -6,8 +6,6 @@ Terraform random pet provider configuration
 
 
 - Create 2 repos:
-  - random_pet: 
-    - no var, no output, just the random pet. 
     - Add it to TFE.
   - create a 2nd repo: 
     - null-remote-pet
@@ -17,3 +15,8 @@ Terraform random pet provider configuration
   
   
 # DONE
+
+- Create 2 repos:
+  - random_pet: 
+    - no var, no output, just the random pet. 
+    - Add it to TFE.
