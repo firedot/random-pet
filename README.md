@@ -6,7 +6,6 @@ Terraform random pet provider configuration
 
 
 - Create 2 repos:
-    - Add it to TFE.
   - create a 2nd repo: 
     - null-remote-pet
     - make this repo use the remote random_pet state (consume the name of the pet) 
